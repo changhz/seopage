@@ -1,0 +1,13 @@
+{
+  "fbAppId": "00000000",
+  "fbAdmins": "admin.one,admin.two",
+  "gaid": "UA-000000000-1",
+  "siteName": "Your Website",
+  "lang": "en-GB",
+  "type": "website",
+  "url": "https://yourwebsite.kom",
+  "thumbnail": "/public/thumb.jpg",
+  "title": "",
+  "description": "",
+  "keywords": ""
+}

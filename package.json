@@ -1,0 +1,32 @@
+{
+  "name": "seopage",
+  "version": "0.2.10",
+  "description": "Add essential elements to your HTML files to be shared on social media and to improve SEO result.",
+  "keywords": [
+    "html",
+    "seo",
+    "share",
+    "social media"
+  ],
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "bin": {
+    "seopage": "./bin/seopage"
+  },
+  "repository": "https://github.com/changhz/seopage",
+  "author": "Honchung Cheng <hz.chang@pm.me>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/jsdom": "^16.1.0",
+    "@types/node": "^13.7.6",
+    "args": "^5.0.1",
+    "jsdom": "^16.2.0",
+    "typescript": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/args": "^3.0.0"
+  }
+}
